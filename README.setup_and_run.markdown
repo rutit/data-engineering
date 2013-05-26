@@ -1,17 +1,14 @@
 # Build, setup and run
 
-1. Technologies used:
-<pre>
+1. Technologies used:<pre>
    - JSE 7.x+
    - Servlet 3.x+ container such as tomcat 7.x+
    - Maven 3.0.x
 </pre>
 
 1. Build, run and use from code:
-<code>
-   $ mvn tomcat7:run
-   - http://localhost:8080/data-engineering
-</code>
+   - <code>$ mvn tomcat7:run</code>
+   - http://localhost:8080/data-engineering/
 
 1. Create war and sources:
 <code>
@@ -20,14 +17,10 @@
 
 1. Install, run and use through war:
 <pre>
-   - data-engineering.war can be deployed to any servlet 3.x+ container such as tomcat 7.x+.
-     - http://stackoverflow.com/questions/5109112/how-to-deploy-war-in-tomcat-7
-     - http://tomcat.apache.org/tomcat-7.0-doc/deployer-howto.html
-     - http://localhost:8080/data-engineering
-</pre>
-
-1. Use the application:
-<pre>
+   data-engineering.war can be deployed to any servlet 3.x+ container such as tomcat 7.x+.
+   - http://stackoverflow.com/questions/5109112/how-to-deploy-war-in-tomcat-7
+   - http://tomcat.apache.org/tomcat-7.0-doc/deployer-howto.html
+   - http://localhost:8080/data-engineering-1.0/
 </pre>
 
 1. Todos:
