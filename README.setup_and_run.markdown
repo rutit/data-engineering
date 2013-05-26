@@ -13,7 +13,7 @@
    - <code>$ mvn package</code> # will generate target\data-engineering.war and target\data-engineering-sources.jar
 
 1. Install, run and use from war:
-   - <a href="../../lib/data-engineering-1.0.war">data-engineering-1.0.war</a> can be deployed to any servlet 3.x+ container such as tomcat 7.x+.
+   - <a href="../../blob/master/lib/data-engineering-1.0.war">data-engineering-1.0.war</a> can be deployed to any servlet 3.x+ container such as tomcat 7.x+.
        - http://stackoverflow.com/questions/5109112/how-to-deploy-war-in-tomcat-7
        - http://tomcat.apache.org/tomcat-7.0-doc/deployer-howto.html
    - Go to: http://localhost:8080/data-engineering-1.0/
