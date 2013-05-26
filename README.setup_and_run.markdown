@@ -22,18 +22,18 @@
        - http://localhost:8080/data-engineering-1.0/
 </pre>
 
-1. Todos:
+1. Further todo:
 <pre>
-- authentication and authorization
-- exception handling
-- logging
-- file and file content validations
-- data and data type validations
-- show table output
-- use servlet annotations
-- use jsp library tag for message
-- concurrent upload of more than 1 file
-- retry mechanism
+  - authentication and authorization
+  - exception handling
+  - logging
+  - file and file content validations
+  - data and data type validations
+  - show table output
+  - use servlet annotations
+  - use jsp library tag for message
+  - concurrent upload of more than 1 file
+  - retry mechanism
 </pre>
 
 
