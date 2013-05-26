@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="data-engineering:war exploded">
+    <output-path>$PROJECT_DIR$/target/data-engineering-1.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="data-engineering/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="data-engineering" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: hsqldb:hsqldb:1.8.0.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
