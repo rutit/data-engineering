@@ -1,4 +1,4 @@
-## Build, setup and run
+## Deployment instructions
 
 1. Technologies used:
    - JSE 7.x+
